@@ -1,5 +1,9 @@
 # Small office Network
 
+![Small Office Network](small-office-network-topology.png)
+
+
+
 This is my first networking project using Cisco packet tracer. i built a small office network with 3 PCs, a printer, a switch and a router.
 
 ## Equipment used
